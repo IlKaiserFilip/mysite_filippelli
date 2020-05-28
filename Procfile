@@ -1,0 +1,1 @@
+web: gunicorn mysite_filippelli.wsgi --log-file -
